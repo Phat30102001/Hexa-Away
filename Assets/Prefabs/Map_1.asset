@@ -14,144 +14,144 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SlotMap:
   - Position: {x: 0, y: 0}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 0, y: 1}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 0, y: 2}
     IsShow: 0
   - Position: {x: 0, y: 3}
     IsShow: 0
   - Position: {x: 0, y: 4}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 0, y: 5}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 0, y: 6}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 0, y: 7}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 0, y: 8}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 0, y: 9}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 0}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 1}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 2}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 3}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 4}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 5}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 6}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 7}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 8}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 1, y: 9}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 0}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 1}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 2}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 3}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 4}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 5}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 6}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 7}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 8}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 2, y: 9}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 0}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 1}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 2}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 3}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 4}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 5}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 6}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 7}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 8}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 3, y: 9}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 0}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 1}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 2}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 3}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 4}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 5}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 6}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 7}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 8}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 4, y: 9}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 0}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 1}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 2}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 3}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 4}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 5}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 6}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 7}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 8}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 5, y: 9}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 0}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 1}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 2}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 3}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 4}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 5}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 6}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 7}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 8}
-    IsShow: 0
+    IsShow: 1
   - Position: {x: 6, y: 9}
-    IsShow: 0
+    IsShow: 1
   Width: 7
   Height: 10
